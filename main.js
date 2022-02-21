@@ -37,6 +37,7 @@ let pargF = document.querySelector(".img-bg p");
 // ----------------------------------------------
 
 const btn = document.querySelector(".btn-dw");
+
 btn.addEventListener('click',
     function () {
         if (active < items.length - 1) {
@@ -53,7 +54,8 @@ btn.addEventListener('click',
 
 // ----------------------------------------------
 
-let btnUp = document.querySelector(".btn-up")
+let btnUp = document.querySelector(".btn-up");
+
 btnUp.addEventListener('click',
     function () {
         if (active > 0) {
@@ -64,3 +66,5 @@ btnUp.addEventListener('click',
         }
     }
 )
+
+// ----------------------------------------------
