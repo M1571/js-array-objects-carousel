@@ -1,5 +1,6 @@
 // console.log('prova');
 
+/*
 const items = [
     'img/01.jpg',
     'img/02.jpg',
@@ -23,6 +24,13 @@ const text = [
     'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et temporibus voluptatum suscipit tempore aliquid deleniti aut veniam inventore eligendi ex ad ullam,',
     'Et temporibus voluptatum suscipit tempore aliquid deleniti aut veniam inventore eligendi ex ad ullam,',
 ];
+*/
+
+// ----------------------------------------------
+
+const carousel = [
+    
+]
 
 // ----------------------------------------------
 
